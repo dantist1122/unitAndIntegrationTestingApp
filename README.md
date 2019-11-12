@@ -1,3 +1,6 @@
+For the small app is better approach to do integration test then many many unit tests,
+it makes more understanding how the current application works
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
